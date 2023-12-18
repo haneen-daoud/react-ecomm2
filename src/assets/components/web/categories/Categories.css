@@ -1,0 +1,17 @@
+.swiper {
+    padding: 50px;
+}
+
+.swiper-pagination-bullet {
+    background-color: black !important;
+}
+
+.category {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.swiper-pagination-bullets.swiper-pagination-horizontal {
+    text-align: center;
+}
